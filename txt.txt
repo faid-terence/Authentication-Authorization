@@ -1,0 +1,1 @@
+mongodb+srv://thestunna_420:thestunna420@cluster0.n19m8mg.mongodb.net/nodetuts?retryWrites=true&w=majority
