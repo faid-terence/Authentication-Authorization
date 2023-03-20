@@ -19,7 +19,7 @@ Once you have these dependencies installed, you can clone this repository to you
 
 bash
 Copy code
-git clone https://github.com/your-username/Authentication-and-Authorization-Repository.git
+git clone https://github.com/faid-terence/Authentication-Authorization-Repository.git
 After cloning the repository, navigate to the directory where it was cloned and install the remaining dependencies by running the following command:
 
 Copy code
